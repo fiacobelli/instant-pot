@@ -1,26 +1,20 @@
-# Name of Recipe
+# Corn on The Cob
 
-### Serves: <number_of_people>
-### Preparation time: <number_of_minutes>
-### Cooking time: <number_of_minutes>
+### Serves: 4-6
+### Preparation time: 1-2 min.
+### Cooking time: 15 min.
 
 ![Images are optional](download.jpg)
 
 ## Ingredients
-- 2--3 tbsp. vegetable oil. *olive oil can be used too*
+- 4--6 ears of corn (peeled)
 - 1 cup of water
-- 12 oz. pasta
-- etc.
 
 ## Instructions
-These should be ordered by step if possible.
 1. Pour water on instant-pot
-2. put pasta in pot
-3. etc...
+2. Put the trivet in the instant pot
+3. Arrange the corn on the trivet like so: 3 go at the bottom parallel to each other, and 3 at the top perpendicular to the bottom ones
+4. Put the instant pot in pressure cook for 2-3 minutes.
 
 ## Additional information
-Use this section if you have any additional information and put it like this:
-For textual notes, just write. For factual information, such as nutritional information, use italics like so:
-*Calories: 15*
-*Protein:15g*
-*Etc..*
+Depending on how many ears of corn you have, you may have to do 3 minutes. I did 5 in 2 minutes and they came out fine.
