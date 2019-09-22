@@ -9,7 +9,8 @@ Within each base ingredient, there are folders that group your dishes by country
 Lastly, If you want to add recipes, here's a sample of elements you need for each recipe and how you would use [markdow](https://www.markdownguide.org/cheat-sheet/) to put your recipes up.
 
 [Browse meals](https://github.com/fiacobelli/instant-pot/meal)
-[Browse desserts]([meals](https://github.com/fiacobelli/instant-pot/meal/dessert)
+
+[Browse desserts](https://github.com/fiacobelli/instant-pot/meal/dessert)
 
 ----
 # Name of Recipe
