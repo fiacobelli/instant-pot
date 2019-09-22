@@ -1,4 +1,4 @@
-# Instant Pot Pad See Ew (base from [instant pot chef](https://instantpotchef.ca/instant-pot-pad-see-ew/))
+# Instant Pot Pad See Ew (base from [instant pot chef](https://instantpotchef.ca/instant-pot-pad-see-ew/) )
 
 ### Preparation: 10 minutes at most
 ### Cooking time: 35 minutes (24 of those are the whole pressure cooking)
