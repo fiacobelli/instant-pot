@@ -1,1 +1,2 @@
-[chicken](chicken/)
+[Chicken](chicken/)
+[Corn](corn/)
