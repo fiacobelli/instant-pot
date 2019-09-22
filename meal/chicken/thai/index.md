@@ -1,1 +1,1 @@
-[Pad see ew](pad-see-ew.md)
+[Pad see ew](pad-see-ew/)
