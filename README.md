@@ -6,7 +6,7 @@ The folders are organized based on the kind of dish and then, the base ingredien
 
 Within each base ingredient, there are folders that group your dishes by country or style (Thai, Cajun, Polish, etc.)
 
-Lastly, here's a sample of elements you need for each recipe and how you would use [markdow](https://www.markdownguide.org/cheat-sheet/) to put your recipes up.
+Lastly, If you want to add recipes, here's a sample of elements you need for each recipe and how you would use [markdow](https://www.markdownguide.org/cheat-sheet/) to put your recipes up.
 
 ----
 # Name of Recipe
