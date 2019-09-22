@@ -17,7 +17,7 @@ Lastly, If you want to add recipes, here's a sample of elements you need for eac
 ### Preparation time: <number_of_minutes>
 ### Cooking time: <number_of_minutes>
 
-![Images are optional](image.jpg)
+![Images are optional](download.jpg)
 
 ## Ingredients
 - 2--3 tbsp. vegetable oil. *olive oil can be used too*
