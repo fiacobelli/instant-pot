@@ -18,7 +18,7 @@ Lastly, here's a sample of elements you need for each recipe and how you would u
 ![Images are optional](image.jpg)
 
 ## Ingredients
-- 2--3 tbsp. vegetable oil
+- 2--3 tbsp. vegetable oil. *olive oil can be used too*
 - 1 cup of water
 - 12 oz. pasta
 - etc.
@@ -31,10 +31,7 @@ These should be ordered by step if possible.
 
 ## Additional information
 Use this section if you have any additional information and put it like this:
-```
-{
-  "calories per serving": 240,
-  "Protein": 15g,
-  "age": 25
-}
-```
+For textual notes, just write. For factual information, such as nutritional information, use italics like so:
+*Calories: 15*
+*Protein:15g*
+*Etc..*
